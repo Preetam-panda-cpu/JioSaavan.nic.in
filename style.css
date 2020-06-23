@@ -1,0 +1,231 @@
+body{
+    background:#eee;
+    margin:0;
+    padding:0;
+}
+/*header section includes logo and menus css starts here*/
+#headerBlock article{
+   background: darkslategray;
+    width: 581px;
+ height: 506px;
+}
+#headerBlock article .leftside img{
+    height: 33px;
+    position: absolute;
+    margin-top: 21px;
+    margin-left: 22px;
+}
+#headerBlock article .one img{
+     position: absolute;
+    height: 333px;
+    margin-top: 54px;
+    margin-left: 83px;;
+}
+#headerBlock article h2{
+   position: absolute;
+    margin-top: 404px;
+    margin-left: 110px;
+    color: white;
+    font-weight: 800;
+    font-size: 38px;
+}
+#headerBlock article em{
+    color: rgb(116, 121, 140);
+    position: absolute;
+    margin-top: 461px;
+    margin-left: 135px;
+    font-size: 26px;
+    font-weight: 300;
+}
+/*header section includes logo and menus css ends here*/
+
+/*right section css starts here*/
+#righrside article .one{
+    position: absolute;
+    margin-top: -544px;
+    margin-left: 831px;
+}
+#righrside article  a{
+    position: absolute;
+    text-decoration: none;
+    border-color: #2a2d36;
+    color: #2a2d36;
+      margin-left: 987px;
+      margin-top: -485px;
+    font-size: 15px;
+   text-align: center;
+    padding-left: 1px;
+    width: 81px;
+    height: 20px;
+    font-weight: bold;
+    border-radius: 999px;
+    border-width: 1px;
+    border-style: solid;
+    cursor: pointer;
+}
+#righrside article .one{
+    position: absolute;
+   margin-top: -483px;
+    margin-left: 797px;
+    font-size: 12px;
+}
+#righrside article  a:hover{
+    color:#eee;
+    background:black;
+}
+#righrside article  h2{
+    position: absolute;
+margin-top: -470px;
+    margin-left: 670px;
+    letter-spacing: 1.0px;
+    font-size: 28px;
+    font-weight: bold;
+}
+#righrside article  p{
+    position: absolute;
+    font-size: 1rem;
+  margin-top: -431px;
+    margin-left: 681px;
+}
+.usernameandlogin input{
+  position: absolute;
+    margin-top: -390px;
+    margin-left: 677px;
+    width: 265px;
+    border-radius: 10px;
+    height: 35px;
+    text-align: center;
+    border-color: #ccc;
+}
+.password input{
+     position: absolute;
+    margin-top: -333px;
+    margin-left: 682px;
+    width: 265px;
+    border-radius: 10px;
+    height: 35px;
+    text-align: center;
+    border-color: #ccc;
+}
+/*right section css ends here*/
+
+/*footermenu section starts here*/
+#footermenu article .one{
+    border: 1px solid #ccc;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    margin-left: 710px;
+    background: #fff;
+    margin-top: -255px;
+}
+#footermenu article .two{
+   border: 1px solid #ccc;
+    height: 61px;
+    width: 229px;
+    position: absolute;
+    margin-left: 699px;
+    margin-top: -273px;
+    background: fixed;
+}
+#footermenu article p{
+    position: absolute;
+    margin-left: 740px;
+    margin-top: -255px;
+}
+#footermenu article .three img{
+    position: absolute;
+    margin-left: 876px;
+    margin-top: -265px;
+    height: 36px;
+}
+#footermenu article .four p{
+    position: absolute;
+    margin-top: -225px;
+    font-size: 9px;
+    margin-left: 875px;
+    color:#555;
+}
+#footermenu article .five button{
+    position: absolute;
+    margin-left: 693px;
+    margin-top: -183px;
+    border-radius: 7px;
+    width: 273px;
+    height: 41px;
+    background-color: #2bc5b4;
+    border-color: #2bc5b4;
+    font-size: 17px;
+    color:#fff;
+}
+#footermenu article .five button:hover{
+    background:#ccc;
+    color:#fff;
+}
+#footermenu article .six a{
+    color: #2bc5b4!important;
+    text-decoration: none;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 640px;
+    margin-top: -127px;
+}
+#footermenu article .seven p{
+ color: #2bc5b4!important;
+position: absolute;
+    margin-top: -81px;
+    font-size: 14px;
+    margin-left: 779px;
+    font-weight: 500;
+}
+/*footermenu section ends here*/
+
+/*button section  css starts here*/
+#button article .one button{
+    position: absolute;
+    text-decoration: none;
+    margin-left: 673px;
+    margin-top: -54px;
+    color: white;
+    border-color: #2a2d36;
+    border: 2px solid #2a2d36;
+    width: 169px;
+    height: 41px;
+    text-align: center;
+    border-radius: 7px;
+    background: darkslategrey;
+}
+#button article .one button:hover{
+        background: #2bc5b4;
+    color: #fff;
+    border:none;
+}
+#button article .two button{
+    position: absolute;
+    text-decoration: none;
+    margin-left: 878px;
+    margin-top: -54px;
+    color: white;
+    border-color: #2a2d36;
+    border: 2px solid #2a2d36;
+    width: 169px;
+    height: 41px;
+    text-align: center;
+    border-radius: 7px;
+    background: #9932cc;
+}
+#button article .two button:hover{
+    border:none;
+    color:#fff;
+    background:#8B008B;
+}
+#button article .two  p{
+    color: #2bc5b4!important;
+    text-decoration: none;
+    cursor: pointer;
+    position: absolute;
+    font-size: 12px;
+    margin-top: -102px;
+    margin-left: 638px;
+}
+/*button section  css ends here*/
